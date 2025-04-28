@@ -1,3 +1,5 @@
 # RPF-MAD: Robust Pretraining-Finetuning Meta-Adversarial Defense
 
-The source code and pretrained models for RPF-MAD will be released upon paper acceptance.
+This repository will contain the code and pretrained models for RPF-MAD.
+
+The full codebase will be publicly released upon paper acceptance.
