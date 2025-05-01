@@ -41,9 +41,3 @@ The full codebase will be publicly released upon paper acceptance.
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 项目结构
-
-将此文件保存为 `README.md`，并根据实际需求调整内容。
