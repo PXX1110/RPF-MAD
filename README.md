@@ -1,4 +1,4 @@
-# 5RPF-MAD: Meta Robust SSL Benchmark with t-SNE Visualizations
+# RPF-MAD: Meta Robust SSL Benchmark with t-SNE Visualizations
 
 本项目是一个用于研究自监督学习（SSL）模型鲁棒性和对抗性行为的工具集，包含多种数据处理、模型训练、对抗样本生成以及 t-SNE 可视化的实现。
 
